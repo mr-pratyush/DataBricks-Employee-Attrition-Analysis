@@ -73,8 +73,18 @@ By addressing the business questions and analyzing KPIs, the project aims to hel
 
 
 ### Databricks Notebook File  
-The analysis notebook file is included in this repository. You can download it using the link below:
+The analysis notebook file is available in this repository. You can access it directly here:  
+[analysis.dbc](https://github.com/mr-pratyush/DataBricks-Employee-Attrition-Analysis/blob/main/analysis.dbc)
 
-[Download analysis.dbc](path/to/)
+### How to Import the File into Databricks
+1. Download the file from the link above.
+2. Log in to your Databricks workspace.
+3. Navigate to **Workspace > Import**.
+4. Upload the downloaded `.dbc` file.
+5. Access the notebook from your workspace.
+
+### Repository Link
+For the full project and associated files, visit the repository:  
+[DataBricks Employee Attrition Analysis](https://github.com/mr-pratyush/DataBricks-Employee-Attrition-Analysis)
 
 
