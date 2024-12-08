@@ -71,3 +71,10 @@ By addressing the business questions and analyzing KPIs, the project aims to hel
 ### Databricks Notebook Link  
 [Click here to view the notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7128274004367966/600111859141726/5258328015260900/latest.html)
 
+
+### Databricks Notebook File  
+The analysis notebook file is included in this repository. You can download it using the link below:
+
+[Download analysis.dbc](path/to/)
+
+
